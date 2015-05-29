@@ -1,4 +1,4 @@
-si ds s d hai dadbsamthis is hanisha
+isi ds s d hai dadbsamthis is hanisha
 in git class
 
 <<<<<<< HEAD
@@ -6,3 +6,5 @@ yjoyful
 =======
 hello
 >>>>>>> testbrnc2
+
+master changes
