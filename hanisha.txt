@@ -1,4 +1,8 @@
 si ds s d hai dadbsamthis is hanisha
 in git class
 
+<<<<<<< HEAD
 yjoyful
+=======
+hello
+>>>>>>> testbrnc2
